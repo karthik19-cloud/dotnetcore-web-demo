@@ -3,7 +3,7 @@ version: 0.2
     
 env:
    variables:
-     PROJECT: dotnet-core-web-app-build
+     PROJECT: picasso
      DOTNET_CORE_RUNTIME: 3.1
 
 phases:   
